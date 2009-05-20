@@ -1,6 +1,6 @@
 Changes
 examples/bot-ikcbot-pluggable.pl
-examples/notify-irc.pl
+examples/notify-ikcbot.pl
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
 inc/Module/Install/AutoInstall.pm
